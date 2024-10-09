@@ -10,4 +10,4 @@ before_script:
 - pip3 install pytest
 script:
 # run pytest
-- pytest
+- pytest 
